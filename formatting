@@ -1,0 +1,31 @@
+       <li><u>Formatting</u></li>
+          <dl>
+           <dt>
+            <dd><b><u>Table</u></b>       
+       
+         <table border="5">
+
+              <tr border= "5">
+                <td>Headings</td>
+                <td><h1>Row</h1></td>
+                <td><h2>Row</h2></td>
+                <td><h3>Row</h3></td>
+                <td><h4>Row</h4></td>
+                <td><h5>Row</h5></td>
+                <td><h6>Row</h6></td>
+              </tr>
+
+              <tr border= "5">
+                <td>Fomatting text</td>
+                <td><u>Row</u></td>
+                <td><strike>Row</strike></td>
+                <td><em>Row</em></td>
+                <td><b>Row</b></td>
+                <td><p>Para<br>Para<br>Para</p></td>
+                <td></td>
+              </tr>          
+        </table>
+
+            </dl>
+           </dt>
+          </dd>  
