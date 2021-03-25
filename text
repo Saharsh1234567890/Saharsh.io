@@ -4,32 +4,6 @@
 
         <!--ABC-->
 
-
-     
-        <h3>Lists</h3>
-            <ul>
-            <li>List</li>
-            <ol>
-            <li>O.L</li>
-            <ol>
-            <li>O.L</li> 
-            <li>O.L</li>
-            <li>O.L</li>
-            </ol>  
-            <li>O.L</li>
-            <ol>
-            <li>O.L</li> 
-            <li>O.L</li>
-            <li>O.L</li>
-            </ol>  
-            <li>O.L</li>
-            <ol>
-            <li>O.L</li> 
-            <li>O.L</li>
-            <li>O.L</li>
-            </ol>
-            </ul>
-
         <li><u>Styling</u></li>
           <dl>
            <dt>
